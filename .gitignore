@@ -1,0 +1,7 @@
+.idea
+*.pdb
+*.exe
+*.dll
+**/bin/**
+**/obj/**
+/Game2/**
